@@ -1,0 +1,1595 @@
+[90m= [39m[34;4mLdapRecord\Models\Collection[39;24m {#5426
+    [34mall[39m: [
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5425
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5400
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5401
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5428
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5427
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5429
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5431
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5432
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5433
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5434
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5435
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5436
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5437
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5438
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5439
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5440
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5441
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5442
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5443
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5444
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5445
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5446
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5447
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5448
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5449
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5450
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5451
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5452
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5453
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5454
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5455
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5456
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5457
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5458
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5459
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5460
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5461
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5462
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5463
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5464
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5465
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5466
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5467
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5468
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5469
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5470
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5471
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5472
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5473
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5474
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5475
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5476
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5477
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5478
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5479
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5480
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5481
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5482
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5483
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5484
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5485
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5486
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5487
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5488
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5489
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5490
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5491
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5492
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5493
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5494
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5495
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5496
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5497
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5498
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5499
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5500
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5501
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5502
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5503
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5504
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5505
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5506
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5507
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5508
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5509
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5510
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5511
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5512
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5513
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5514
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5515
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5516
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5517
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5518
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5519
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5520
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5521
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5522
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5523
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5524
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5525
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5526
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5527
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5528
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5529
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5530
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5531
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5532
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5533
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5534
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5535
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5536
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5537
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5538
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5539
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5540
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5541
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5542
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5543
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5544
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5545
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5546
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5547
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5548
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5549
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5550
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5551
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5552
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5553
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5554
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5555
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5556
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5557
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5558
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5559
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5560
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5561
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5562
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5563
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5564
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5565
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5566
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5567
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5568
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5569
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5570
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5571
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5572
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5573
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5574
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5575
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5576
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5577
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5578
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5579
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5580
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5581
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5582
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5583
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5584
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5585
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5586
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5587
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5588
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5589
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5590
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5591
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5592
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5593
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5594
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5595
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5596
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5597
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5598
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5599
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5600
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5601
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5602
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5603
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5604
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5605
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5606
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5607
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5608
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5609
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5610
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5611
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5612
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5613
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5614
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5615
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5616
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5617
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5618
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5619
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5620
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5621
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5622
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5623
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5624
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5625
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5626
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5627
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5628
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5629
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5630
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5631
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5632
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5633
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5634
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5635
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5636
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5637
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5638
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5639
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5640
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5641
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5642
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5643
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5644
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5645
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5646
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5647
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5648
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5649
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5650
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5651
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5652
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5653
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5654
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5655
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5656
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5657
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5658
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5659
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5660
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5661
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5662
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5663
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5664
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5665
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5666
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5667
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5668
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5669
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5670
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5671
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5672
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5673
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5674
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5675
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5676
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5677
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5678
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5679
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5680
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5681
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5682
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5683
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5684
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5685
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5686
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5687
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5688
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5689
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5690
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5691
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5692
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5693
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5694
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5695
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5696
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5697
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5698
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5699
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5700
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5701
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5702
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5703
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5704
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5705
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5706
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5707
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5708
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5709
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5710
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5711
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5712
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5713
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5714
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5715
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5716
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5717
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5718
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5719
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5720
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5721
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5722
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5723
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5724
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5725
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5726
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5727
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5728
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5729
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5730
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5731
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5732
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5733
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5734
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5735
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5736
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5737
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5738
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5739
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5740
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5741
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+      [34;4mLdapRecord\Models\ActiveDirectory\User[39;24m {#5742
+        +[1mexists[22m: [36mtrue[39m,
+        +[1mwasRecentlyCreated[22m: [36mfalse[39m,
+        +[1mwasRecentlyRenamed[22m: [36mfalse[39m,
+      },
+    ],
+  }
+

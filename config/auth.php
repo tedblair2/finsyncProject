@@ -14,7 +14,7 @@ return [
     */
 
     'defaults' => [
-        'guard' => env('AUTH_GUARD', 'web'),
+        'guard' => env('AUTH_GUARD', 'ldap'),
         'passwords' => env('AUTH_PASSWORD_BROKER', 'users'),
     ],
 
@@ -40,6 +40,10 @@ return [
             'driver' => 'session',
             'provider' => 'users',
         ],
+        'ldap' => [
+        'driver' => 'session',
+        'provider' => 'ldap_users',
+    ],
     ],
 
     /*
@@ -69,6 +73,29 @@ return [
         //     'driver' => 'database',
         //     'table' => 'users',
         // ],
+    
+        'ldap_users' => [
+            'driver' => 'ldap',
+            // The LDAP provider's model should be an LdapRecord model.
+            'model' => App\Ldap\User::class,
+            // Include the database sync configuration so the LDAP provider
+            // will use the DatabaseUserProvider (syncing LDAP users into
+            // the local Eloquent model) instead of the plain provider.
+            'database' => [
+                'model' => App\Models\User::class,
+                'sync_passwords' => false,
+                'sync_attributes' => [
+                    'name' => 'cn',
+                    'email' => 'mail',
+                ],
+                'sync_existing' => [
+                    'email' => 'mail',
+                ],
+            ],
+            // Pass through rules and scopes from ldap_auth config if present.
+            'rules' => config('ldap_auth.rules'),
+            'scopes' => config('ldap_auth.scopes'),
+        ],
     ],
 
     /*
