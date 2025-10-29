@@ -1,0 +1,364 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F1F4F5;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+.dashboardcontainer{
+    display: grid;
+    grid-template-rows: auto 1fr; /* header | body */
+    height: 100vh;
+    overflow: hidden;
+}
+
+.headerpart {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    background-color: white;
+    padding: 12px 12px;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+}
+
+.logoimg {
+    width: 120px;
+    height: auto;
+    object-fit: contain;
+}
+
+.mainbody {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    overflow: hidden;
+}
+
+.dashboardleftside {
+    width: 20%;
+    height: 100%;
+    background-color: white;
+    border-right: 1px solid lightgray;
+    overflow:auto
+}
+
+.dashboardrightside {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+    overflow: auto;
+}
+
+.navtabs {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 18px;
+}
+
+.navtab {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+
+.navtab:hover {
+    background-color: #e9ebf0;
+}
+
+.navtitle.active {
+    color: white;
+    border-left: 0px;
+    font-weight: 600;
+}
+
+.navtab.active {
+    background-color: #5b77d4;
+    border-left: 3px solid #C9187D;
+    cursor: pointer;
+    color: white;
+}
+
+.navtitle {
+    color: #8c8988;
+}
+
+.msg-btn {
+    padding: 10px;
+    border-radius: 7px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-self: center;
+    padding-left: 20px;
+}
+
+.msg-btn:hover{
+    background-color: #e9ebf0;
+    cursor: pointer;
+}
+
+.msg-btn i {
+    margin-right: 10px;
+    color: #C9187D;
+}
+
+.msg-btn span {
+    color: #8c8988;
+}
+
+.pagetitle {
+    display: flex;
+    width: 100%;
+    min-height: 69px;
+    border-bottom: 1px solid lightgray;
+    justify-content: left;
+    align-items: center;
+    background-color: white;
+    padding-left: 24px;
+}
+
+.pagetitle span {
+    font-size: 22px;
+    color: #616364;
+    font-weight: 600;
+}
+
+.overviewdiv {
+    display: flex;
+    width: 100%;
+    min-height: 69px;
+    justify-content: left;
+    align-items: center;
+    padding-left: 24px;
+}
+
+.overviewdiv span {
+    font-size: 18px;
+    color: #616364;
+}
+
+.datefilterview {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    width: 100%;
+    min-height: 60px;
+    border-bottom: 1px solid lightgray;
+    justify-content: left;
+    align-items: center;
+    background-color: white;
+    padding-left: 24px;
+}
+
+.datefilterview span {
+    font-size: 17px;
+    color: #767779;
+}
+
+.datefilterview i {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.requestsdiv {
+    display: flex;
+    flex-direction: column;
+    width: 98%;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    align-self: center;
+    margin-bottom: 15px;
+}
+
+.requestsdivtopbar {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid lightgray;
+    height: 60px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    top: 0px;
+    z-index: 100;
+    background-color: white;
+}
+
+.searchbar {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 50%;
+    height: 40px;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.filtersdiv {
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.filterselection {
+    height: 100%;
+    align-items: end;
+    align-content: end;
+    padding-bottom: 12px;
+    cursor: pointer;
+}
+
+.filterselection:hover{
+    color: #5b77d4 ;
+}
+
+.filterselection.filteractive{
+    color: #5b77d4 ;
+}
+
+.requestsearchdiv {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+    gap: 12px;
+    width: 70%;
+    padding-right: 15px;
+}
+
+#requestsearch {
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    height: 100%;
+}
+
+.searchicon {
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.refresh {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.requeststable {
+    margin-top: 14px;
+    width: 99%;
+    min-width: 99%;
+    max-width: 99%;
+    align-self: center;
+    border-top: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    border-left: 1px solid lightgray;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.requeststable .requeststableheader {
+    background-color: #5b77d4;
+    color: white;
+    height: 40px;
+    font-size: 14px;
+}
+
+.requeststable .requeststablebody {
+    height: 50px;
+    padding-top: 8px;
+    border-bottom: 1px solid lightgray;
+    font-size: 15px;
+}
+
+.requeststablebody .requestdetail {
+    word-break: break-word;
+    white-space: normal;
+    overflow-wrap: anywhere;
+}
+
+.msgdatediv,.receiverdiv {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.msgdate {
+    font-size: 14px;
+}
+
+.msgstatus,.receivername {
+    font-size: 15px;
+}
+
+.msgtime,.receiverphone {
+    font-size: 14px;
+    color: #767779;
+}
+
+.requestactions {
+    flex-direction: row;
+    width: 100%;
+    gap: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.requestactionbtn {
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.requestactionbtn i {
+    font-size: 14px;
+}
+
+.dashboardalerthere {
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alert {
+    min-width: 250px;
+    height: 40px;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+}
+
+.headerleftpart {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.headerleftpart i {
+    font-size: 22px;
+    display: none;
+}

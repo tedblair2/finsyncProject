@@ -1,0 +1,12 @@
+#!/bin/bash
+
+if [ -f /home/tedomino/.env ]; then
+    cp /home/tedomino/.env /home/tedomino/finsyncProject/
+fi
+if [ -f /home/tedomino/finsyncProject/storage/logs/laravel.log ]; then
+    rm /home/tedomino/finsyncProject/storage/logs/laravel.log
+fi
+cp -R /home/tedomino/finsyncProject /var/www/
+chown -R www-data:www-data /var/www/finsyncProject
+chmod -R 775 /var/www/finsyncProject/storage
+systemctl restart nginx
