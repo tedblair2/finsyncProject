@@ -76,17 +76,27 @@ class BanksController extends Controller
             $transactionsQuery=$transactionsQuery->where('creditdebitflag','debit');
         }
 
-        $pages=$this->calculateTotalpages((clone $transactionsQuery)->get()->count(),$perPage);
+        $totalCredit=0;
+        $totalDebit=0;
+        $transactionCount=(clone $transactionsQuery)->count();
+        $pages=$this->calculateTotalpages($transactionCount,$perPage);
         $newPage = ($page > $pages) ? $pages : $page;
         $offset = ($newPage - 1) * $perPage;
         $transactions=$transactionsQuery->orderBy('transaction_date','desc')->offset($offset)->limit($perPage)->get();
+        $usdToKesRate=$request->input('usdToKesRate',129);
 
-        $transactions=$transactions->map(function($transaction){
+        $transactions=$transactions->map(function($transaction) use(&$totalCredit,&$totalDebit,$usdToKesRate){
             $desc=DB::table('transaction_codes')->where('code', $transaction['transaction_code'])->first();
             $transactionDescription=$desc ? $desc->description : '';
             $account=Account::where('account_number', $transaction['account_number'])->first();
             $bankName=$account ? ($account->bank ? $account->bank->name : '') : '';
-            $currency=$account ? $account->currency : '';
+            $currency=$account ? $account->currency : 'KES';
+            $amountUSD = ($currency == 'KES') ? $transaction['amount'] / $usdToKesRate : $transaction['amount'];
+            if ($transaction['creditdebitflag'] === 'credit') {
+                $totalCredit += $amountUSD;
+            } else {
+                $totalDebit += $amountUSD;
+            }
             return [
                 'transaction_id' => $transaction['transaction_id'],
                 'transaction_description' => $transactionDescription,
@@ -102,11 +112,16 @@ class BanksController extends Controller
                 'creditdebitflag'=> $transaction['creditdebitflag']
             ];
         });
+        $totalNetFlow=$totalCredit-$totalDebit;
 
         return response()->json([
             'isSuccess'=>true,
             'data'=> $transactions,
-            'pages'=>$pages
+            'pages'=>$pages,
+            'totalCredit'=>number_format($totalCredit,2),
+            'totalDebit'=>number_format($totalDebit,2),
+            'totalNetFlow'=>number_format($totalNetFlow,2),
+            'transactionCount'=>$transactionCount
         ]);
     }
 
@@ -216,7 +231,7 @@ class BanksController extends Controller
 
         $password=$this->generateRandomName(16);
         $username=$this->generateRandomName(20);
-        
+
         $bank=Bank::create([
             'name' => $request->name,
             'username' => $username,
@@ -251,7 +266,7 @@ class BanksController extends Controller
         if($itemCount==0){
             return 1;
         }else{
-            return floor(($itemCount + $perPage - 1) / $perPage); 
+            return floor(($itemCount + $perPage - 1) / $perPage);
         }
     }
 }

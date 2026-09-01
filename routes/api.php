@@ -18,7 +18,7 @@ Route::get('/transactions',[BanksController::class,'getTransactions']);
 Route::get('/transactions/export',[BanksController::class,'exportTransactions']);
 
 Route::middleware(['auth:sanctum','ability:bank-oauth'])->group(function () {
-    
+
     Route::get('/test',function(){
         $bank=Auth::user();
         return response()->json([
@@ -28,7 +28,11 @@ Route::middleware(['auth:sanctum','ability:bank-oauth'])->group(function () {
     });
 });
 
-// Route::post('/oauth/v1/banks/generate-new-key',[BanksController::class,'generateNewBankKey']);
+Route::get('/testroute',function(){
+    return response()->json([
+        'data'=>'Success'
+    ]);
+});
 
 
 

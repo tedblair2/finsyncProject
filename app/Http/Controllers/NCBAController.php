@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Jobs\PostXMLContent;
 use App\Models\Account;
 use App\Models\Bank;
 use App\Models\Transaction;
@@ -223,7 +224,9 @@ class NCBAController extends Controller
                 'account_number' => $accountNr,
                 'bank_id' => $bank->id
             ]);
-            
+
+            dispatch(new PostXMLContent($xmlContent));
+
             return $this->ncbaResponse('OK',200);
         }catch(\Exception $e){
             Log::info(now()." $e");
@@ -254,16 +257,16 @@ class NCBAController extends Controller
                 return $this->ncbaResponse('FAIL: No Credentials Provided',401);
             }
 
-            $bank=Bank::where('username', $data['User'])->where('password', $data['Password'])->first();
-            if(!$bank){
-                return $this->ncbaResponse('FAIL: Invalid Credentials',401);
-            }
+            // $bank=Bank::where('username', $data['User'])->where('password', $data['Password'])->first();
+            // if(!$bank){
+            //     return $this->ncbaResponse('FAIL: Invalid Credentials',401);
+            // }
 
             if(!isset($data['HashVal']) || !isset($data['TransType']) || !isset($data['TransID']) || !isset($data['TransTime']) || !isset($data['TransAmount']) || !isset($data['AccountNr']) || !isset($data['CustomerName']) || !isset($data['Status'])){
                 return $this->ncbaResponse('FAIL: Invalid Parameters',401);
             }
 
-            $secretKey=$bank['secret_key'];
+            // $secretKey=$bank['secret_key'];
             $hashVal=$data['HashVal'];
             $transType=$data['TransType'];
             $transId=$data['TransID'];
@@ -276,14 +279,18 @@ class NCBAController extends Controller
             $status=$data['Status'];
             $ftcrNarration=isset($data['FtCrNarration']) ? (is_array($data['FtCrNarration']) ? implode('', $data['FtCrNarration']) : $data['FtCrNarration']) : '';
 
-            $key="$secretKey$transType$transId$transTime$transAmount$accountNr$narrative$phoneNo$name$status";
-            $myhashVal=$this->generateHashValue($key);
-            Log::info(now()." $myhashVal invalid hash value");
+            // $key="$secretKey$transType$transId$transTime$transAmount$accountNr$narrative$phoneNo$name$status";
+            // $myhashVal=$this->generateHashValue($key);
+            // Log::info(now()." $myhashVal invalid hash value");
 
-            if($myhashVal!=$hashVal){
-                Log::info(now()." $myhashVal invalid hash value");
-                // return $this->ncbaResponse('FAIL: Invalid Hash Value',401);
-            }
+            // if($myhashVal!=$hashVal){
+            //     Log::info(now()." $myhashVal invalid hash value");
+            //     // return $this->ncbaResponse('FAIL: Invalid Hash Value',401);
+            // }
+
+            Http::withHeaders(['Content-type' => 'application/xml'])
+                ->withBody($xmlContent, 'application/xml')
+                ->post(env('NCBA_BACKEND_URL'));
 
             return $this->ncbaResponse('OK',200);
         }catch(\Exception $e){
